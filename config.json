@@ -9,6 +9,7 @@
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
     "default_lang": "en",
+    "presets" : {"url": "https://elearning.esaunggul.ac.id", "username": ""},
     "languages": {
         "ar": "عربي",
         "bg": "Български",
