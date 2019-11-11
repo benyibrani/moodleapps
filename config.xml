@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
-        versionCode = "37100"
-        android-versionCode="37100"
+        versionCode = "37101"
+        android-versionCode="37101"
         version   = "3.7.1">
     <name>eLearning UEU</name>
 
